@@ -1,0 +1,13 @@
+# Finance Controller Agent — Backend Dependencies
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.0
+pandas>=2.0
+thefuzz[speedup]>=0.20.0
+chromadb>=0.4.0
+google-genai>=1.0.0
+statsmodels>=0.14.0
+numpy>=1.24.0
+python-multipart>=0.0.6
+pytest>=7.0.0
+
